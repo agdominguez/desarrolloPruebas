@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kCLBdEc5jSHf9L730Hppo8qWijOqeofo1QRs+oSckew=",
+  "Source": "PowerShellAPI",
+  "BasePath": "_content/PowerShellAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
